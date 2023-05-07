@@ -49,15 +49,15 @@
 
 #imgleft {
   background-image: url("./nam.jpg");
-  width: 600px;
-  height: 600px;
+  width: 400px;
+  height: 400px;
   background-size: cover;
 }
 
 #imgright {
   background-image: url("./nu.jpg");
-  width: 600px;
-  height: 600px;
+  width: 400px;
+  height: 400px;
   margin-left: 99px;
   background-size: cover;
 }
